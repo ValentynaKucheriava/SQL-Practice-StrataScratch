@@ -1,3 +1,4 @@
+## Introduction
 In this repository, I'm sharing my **SQL query notes** that I compiled during my enrollment in the following [DataCamp](https://datacamp.com/) training tracks:
 
 *   **Data Analyst with SQL**
