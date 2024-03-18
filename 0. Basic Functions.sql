@@ -1,8 +1,9 @@
--- query retrieves the maximum price among all pizzas and aliases it as "MaxPrice.
-SELECT MAX (price) AS MaxPrice
-FROM pizzas;
+-- ----------------------------------------
+-- ID 10363 Weekly Orders Report
+-- For each week, find the total number of orders. Include only those orders that are from the first quarter of 2023. The output should contain 'week' and 'quantity'.
+-- ----------------------------------------
 
--- query retrieves the maximum price for each size of pizza available in the table
-SELECT size, MAX (price)
-FROM pizzas
-GROUP BY size;
+SELECT TOP (10) week, SUM (quantity) AS quantity
+FROM orders_analysis
+WHERE week BETWEEN '2023-01-02' and '2023-06-01'
+GROUP BY week 
