@@ -1,5 +1,4 @@
-/* ID 10363 Weekly Orders Report.
-For each week, find the total number of orders. Include only those orders that are from the first quarter of 2023. The output should contain 'week' and 'quantity'. */
+--https://platform.stratascratch.com/coding/10363-weekly-orders-report?code_type=5
 
 SELECT TOP (10) week, SUM (quantity) AS quantity
 FROM orders_analysis
