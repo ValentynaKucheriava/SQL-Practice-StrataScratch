@@ -11,17 +11,9 @@ Check out the page of [StrataScratch](https://www.stratascratch.com/)! They have
 | [10356](https://platform.stratascratch.com/coding/10356-finding-doctors?code_type=5) |  Finding Doctors | [SQL](Easy/10356_Finding_Doctors.sql)
 | [10308](https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=5) |  Salaries Differences | [SQL](Easy/10308_Salaries_Differences.sql)
 | [10299](https://platform.stratascratch.com/coding/10299-finding-updated-records?code_type=5) | Finding Updated Records| [SQL](Easy/10299_Finding_Updated_Records.sql)
-
-### Difficulty: Medium
-
-| ID | Title | My Solution |
-| --- | --- | --- |
+| [10183 ](https://platform.stratascratch.com/coding/10183-total-cost-of-orders?code_type=5) | Total Cost Of Orders| [SQL](Easy/10183_Total_Cost_Of_Orders.sql)
 
 
-### Difficulty: Hard
-
-| ID | Title | My Solution |
-| --- | --- | --- |
 
 
 
