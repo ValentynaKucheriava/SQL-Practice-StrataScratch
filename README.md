@@ -14,6 +14,7 @@ These are scripts that answer questions from [StrataScratch](https://www.stratas
 | [10183 ](https://platform.stratascratch.com/coding/10183-total-cost-of-orders?code_type=5) | Total Cost Of Orders| [SQL](Easy/10183_Total_Cost_Of_Orders.sql)
 | [10170](https://platform.stratascratch.com/coding/10170-gender-with-most-doctor-appointments?code_type=5) | Gender With Most Doctor Appointments| [SQL](Easy/10170_Gender_With_Most_Doctor_Appointments.sql)
 | [10164](https://platform.stratascratch.com/coding/10164-total-adwords-earnings?code_type=5) |Total AdWords Earnings| [SQL](Easy/10164_Total_AdWords_Earnings.sql)
+| [10167](https://platform.stratascratch.com/coding/10167-total-number-of-housing-units?code_type=5) |Total Number Of Housing Units| [SQL](Easy/10167_Total_Number_Of_Housing_Units.sql)
 
 
 
