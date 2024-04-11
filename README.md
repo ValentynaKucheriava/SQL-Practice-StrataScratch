@@ -21,6 +21,10 @@ These are scripts that answer questions from [StrataScratch](https://www.stratas
 | [10127](https://platform.stratascratch.com/coding/10127-calculate-samanthas-and-lisas-total-sales-revenue?code_type=5) |Calculate Samantha's and Lisa's total sales revenue| [SQL](Easy/10127_Calculate_Samantha's_and_Lisa's_total_sales_revenue.sql)
 | [10122](https://platform.stratascratch.com/coding/10122-find-the-total-number-of-searches-for-houses-westlake-neighborhood-with-a-tv?code_type=5) |Find the total number of searches for houses Westlake neighborhood with a TV| [SQL](Easy/10122_Find_the_total_numberof_searches_for_houses_Westlake_neighborhood_with_a_TV.sql)
 | [10087](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?code_type=5) |Find all posts which were reacted to with a heart| [SQL](Easy/10087_Find_all_posts_which_were_reacted_to_with_a_heart.sql)
+| [10057](https://platform.stratascratch.com/coding/10057-find-the-number-of-5-star-reviews-earned-by-lo-los-chicken-waffles?code_type=5) | Find the number of 5-star reviews earned by Lo-Lo's Chicken & Waffles| [SQL](Easy/10057_Find_the_number_of_5_star_reviews.sql)
+
+
+
 
 ### Difficulty: Medium
 
