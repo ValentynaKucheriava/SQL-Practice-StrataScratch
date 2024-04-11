@@ -24,7 +24,7 @@ These are scripts that answer questions from [StrataScratch](https://www.stratas
 | [10057](https://platform.stratascratch.com/coding/10057-find-the-number-of-5-star-reviews-earned-by-lo-los-chicken-waffles?code_type=5) | Find the number of 5-star reviews earned by Lo-Lo's Chicken & Waffles| [SQL](Easy/10057_Find_the_number_of_5_star_reviews.sql)
 | [10055](https://platform.stratascratch.com/coding/10055-records-with?code_type=5) | Records With '?'| [SQL](Easy/10055_Records_With_'?'.sql)
 | [10054](https://platform.stratascratch.com/coding/10054-find-the-number-of-entries-per-star?code_type=5) |Find the number of entries per star| [SQL](Easy/10054_Find_the_number_of_entries_per_star.sql)
-
+| [10052](https://platform.stratascratch.com/coding/10052-find-the-average-number-of-stars-for-each-state?code_type=5)|Find the average number of stars for each state| [SQL](Easy/10052_Find_the_average_number_of_stars_for_each_state.sql)
 
 
 
