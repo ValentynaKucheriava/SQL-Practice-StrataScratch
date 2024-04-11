@@ -23,6 +23,8 @@ These are scripts that answer questions from [StrataScratch](https://www.stratas
 | [10087](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?code_type=5) |Find all posts which were reacted to with a heart| [SQL](Easy/10087_Find_all_posts_which_were_reacted_to_with_a_heart.sql)
 | [10057](https://platform.stratascratch.com/coding/10057-find-the-number-of-5-star-reviews-earned-by-lo-los-chicken-waffles?code_type=5) | Find the number of 5-star reviews earned by Lo-Lo's Chicken & Waffles| [SQL](Easy/10057_Find_the_number_of_5_star_reviews.sql)
 | [10055](https://platform.stratascratch.com/coding/10055-records-with?code_type=5) | Records With '?'| [SQL](Easy/10055_Records_With_'?'.sql)
+| [10054](https://platform.stratascratch.com/coding/10054-find-the-number-of-entries-per-star?code_type=5) |Find the number of entries per star| [SQL](Easy/10054_Find_the_number_of_entries_per_star.sql)
+
 
 
 
