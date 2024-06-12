@@ -1,3 +1,5 @@
+-- https://platform.stratascratch.com/coding/10368-population-density?code_type=5
+
 SELECT city, country, density
 FROM (
     SELECT 
