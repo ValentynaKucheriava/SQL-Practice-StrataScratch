@@ -33,4 +33,4 @@ These are scripts that answer questions from [StrataScratch](https://www.stratas
 
 | ID | Title | My Solution |
 | --- | --- | --- |
-| [10368](https://platform.stratascratch.com/coding/10368-population-density?code_type=5) |Population Density| [SQL](Easy/10363_Weekly_Orders_Report.sql)
+| [10368](https://platform.stratascratch.com/coding/10368-population-density?code_type=5) |Population Density| [SQL](Medium/10368_Population_Density.sql)
